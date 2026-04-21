@@ -1,0 +1,12 @@
+{
+  "name": "restaurant-voice-ai",
+  "version": "1.0.0",
+  "description": "Restaurant Voice AI with Twilio and OpenAI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
